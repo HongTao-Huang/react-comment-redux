@@ -52,7 +52,7 @@ class CommentInput extends Component {
         }
         this.setState({ content: '' })
     }
-
+    
     render() {
         return (
             <div className='comment-input'>
